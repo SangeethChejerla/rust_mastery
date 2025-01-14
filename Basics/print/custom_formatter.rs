@@ -13,7 +13,7 @@ impl fmt::Display for Person {
 
 fn main() {
     let alice = Person { name: String::from("Alice"), age: 30 };
-    println!("{}", alice);
+    println!("{}", alice);good morning posts have more weight than quotes
 }
 
 //Alice is 30 years old
